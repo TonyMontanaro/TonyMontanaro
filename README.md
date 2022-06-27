@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TonyMontanaro
+- 👋 Hi, I’m @TonyMontanaro from Malta EU
 - 👀 I’m interested in AI, Machine Learning, Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
